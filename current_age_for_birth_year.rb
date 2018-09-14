@@ -1,3 +1,3 @@
 def current_age_for_birth_year(age)
-  2018 - year
+  1984 - age
 end
